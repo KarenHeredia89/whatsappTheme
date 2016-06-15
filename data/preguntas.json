@@ -1,0 +1,11 @@
+[
+		{	"id":  "1",
+			"preguntar": "Hola",
+			"respuesta": "Hola, Como estas?"
+		},
+		{
+			"id": "2",
+			"preguntar": "bien, y tu?",
+			"respuesta": "Tambien, muchas gracias"
+		}
+]

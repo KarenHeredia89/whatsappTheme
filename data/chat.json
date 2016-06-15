@@ -1,0 +1,43 @@
+[
+		{"id":  "1",
+			"user": "Aldo Alfaro",
+			"text": "Hi",
+			"time": "06:20",
+			"img":	"image/aldo.jpg"
+		},{"id":  "2",
+			"user": "Ana Maria Martínez Franklin",
+			"text": "There",
+			"time": "04:41",
+			"img":	"image/anamaria.jpg"
+		},{"id":  "3",
+			"user": "Andrea Lamas",
+			"text": "is",
+			"time": "04:41",
+			"img":	"image/andrea.jpg"
+		} ,{"id":  "4",
+			"user": "Raymi Saldomando",
+			"text": "no",
+			"time": "04:41",
+			"img":	"image/raymi.jpg"
+		} ,{"id":  "5",
+			"user": "Mariana Costa",
+			"text": "mercy",
+			"time": "04:41",
+			"img":	"image/mariana.jpg"
+		} ,{"id":  "6",
+			"user": "Rudolfo Prieto",
+			"text": "why?",
+			"time": "04:41",
+			"img":	"image/rodulfo.jpg" 
+		} ,{"id":  "7",
+			"user": "Maria Paula Rivarola",
+			"text": "i´m gonna",
+			"time": "04:41",
+			"img":	"image/mariapaula.jpg"
+		} ,{"id":  "8",
+			"user": "Katy Sanchez",
+			"text": "die",
+			"time": "04:41",
+			"img":	"image/avatar.jpg"
+		}  
+]

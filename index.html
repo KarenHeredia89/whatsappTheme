@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <title>Whatsapp Web</title>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link rel="shortcut icon" href="image/favicon.png" type="image/png">
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+      <link href='https://fonts.googleapis.com/css?family=Roboto:400,500' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="css/style.css">
+
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="header"></div>
+      <div id="whats" >
+        <div class="top-whats ">
+          <div id="left">
+            <div id="menu">
+              <div class="img-profile">
+                <img src="image/curricula.jpg" class="img-circle" width="45">
+              </div>
+              <div class="menu-profile">
+                <img src="image/icons/chat.png">
+                <img src="image/icons/menu.png">
+              </div>
+            </div>
+            <div id="buscar">
+              <div class="center-search">
+                <input type="text" class="form-control" id="buscar" placeholder="Buscar o empezar un chat nuevo">
+              </div>
+            </div>
+            <div id="contactos"></div>
+          </div>
+          <div id="chat">
+            <div id="detalle-chat-online">
+              <div id="online-img"><img src="" class="img-circle" width="40" id="foto-change"></div>
+              <div id="online-nombre"></div>
+              <div id="online-menu"><a href=""><img src="image/icons/adjunto.png"></a> <a href=""><img src="image/icons/menu.png"></a> </div>
+            </div>
+            <div id="mensajes"></div>
+            <div id="envia">
+              <div id="emoticon"><img src="image/icons/emoticon.png"></div>
+              <div id="form-envia"><input type="text" class="form-control" id="mensaje" style="height:45px;" placeholder="Escribe un mensaje aquí" id="texto"></div>
+              <div id="enviar-boton"><img src="image/icons/enviar.png" id="enviado"></div>
+            </div>
+          </div>
+        </div>
+        <input type="hidden" id="nombre">
+        <input type="hidden" id="id-open">
+        <input type="hidden" id="img">
+      </div>
+    </div>
+    <script src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/pouchdb.js"></script>
+    <script type="text/javascript" src="js/pouchdb.find.min.js"></script>
+      <!-- Plugin JavaScript -->
+      <script src="js/main.js"></script>
+     <script src="js/bootstrap.min.js"  crossorigin="anonymous"></script>
+  </body>
+</html>
