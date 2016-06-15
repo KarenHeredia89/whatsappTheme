@@ -47,7 +47,7 @@ $(document).ready(function() {
 
 
 });
-var db = new PouchDB('whats');
+var db = new PouchDB('whatsapp');
 
 
 function enviarChat(id, mensaje){
@@ -63,12 +63,12 @@ function enviarChat(id, mensaje){
     };
     db.put(todo, function callback(err, result) {
       if (!err) {
-        console.log('Successfully posted a todo!');
+        console.log('Successfully posted!');
       }
     });
   $.getJSON('data/preguntas.json', function(data) {
     $.each( data, function( key, value ) {
-      if(value.preguntar == mensaje){
+      if(value.preguntar = mensaje){
         var todo = {
           _id: new Date().toISOString(),
           user: id,
@@ -78,7 +78,7 @@ function enviarChat(id, mensaje){
         };
         db.put(todo, function callback(err, result) {
           if (!err) {
-            console.log('Successfully posted a todo!');
+            console.log('Successfully posted!');
           }
         });
       }

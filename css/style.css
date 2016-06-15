@@ -11,14 +11,13 @@ body{
 	float: left;
 }
 #menu{
-	background: #eee;
 	padding-left: 10px;
 	padding-top: 10px;
+	background: #eee;
 	overflow: hidden;	
 }
 .menu-profile{
 	padding-top: 10px;
-
 }
 .img-profile{
 	float: left;
@@ -46,15 +45,14 @@ body{
 	height: 125px;
 	background: #009688;
 }
-#whats{
-	width: 1100px;
-	margin: auto;
+#whatsapp{
 	border: 1px solid #c4c7c4;
 	background: #eeeeee;
 	top: -100px;
+	width: 1100px;
+	margin: auto;
 	position: relative;
 	overflow: hidden;
-	
 }
 .top-whats{
 	background: white;
@@ -77,8 +75,7 @@ body{
 	color: #a4a4a4
 }
 .hora-chat{
-	
-	font-size: 11px;
+	font-size: 10px;
 	padding-top: 10px;
 }
 #chat{

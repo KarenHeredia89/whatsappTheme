@@ -1,11 +1,11 @@
 [
 		{	"id":  "1",
-			"preguntar": "Hola",
-			"respuesta": "Hola, Como estas?"
+			"preguntar": "hola",
+			"respuesta": "Hola, Qué show?"
 		},
 		{
 			"id": "2",
-			"preguntar": "bien, y tu?",
-			"respuesta": "Tambien, muchas gracias"
+			"preguntar": "dónde andas?",
+			"respuesta": "En casa, le caes?"
 		}
 ]

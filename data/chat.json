@@ -7,37 +7,37 @@
 		},{"id":  "2",
 			"user": "Ana Maria Martínez Franklin",
 			"text": "There",
-			"time": "04:41",
+			"time": "04:20",
 			"img":	"image/anamaria.jpg"
 		},{"id":  "3",
 			"user": "Andrea Lamas",
 			"text": "is",
-			"time": "04:41",
+			"time": "10:05",
 			"img":	"image/andrea.jpg"
 		} ,{"id":  "4",
 			"user": "Raymi Saldomando",
 			"text": "no",
-			"time": "04:41",
+			"time": "14:15",
 			"img":	"image/raymi.jpg"
 		} ,{"id":  "5",
 			"user": "Mariana Costa",
 			"text": "mercy",
-			"time": "04:41",
+			"time": "12:00",
 			"img":	"image/mariana.jpg"
 		} ,{"id":  "6",
 			"user": "Rudolfo Prieto",
 			"text": "why?",
-			"time": "04:41",
+			"time": "03:21",
 			"img":	"image/rodulfo.jpg" 
 		} ,{"id":  "7",
 			"user": "Maria Paula Rivarola",
 			"text": "i´m gonna",
-			"time": "04:41",
+			"time": "09:44",
 			"img":	"image/mariapaula.jpg"
 		} ,{"id":  "8",
 			"user": "Katy Sanchez",
 			"text": "die",
-			"time": "04:41",
+			"time": "22:19",
 			"img":	"image/avatar.jpg"
 		}  
 ]
